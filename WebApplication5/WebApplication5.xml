@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication5</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication5.Controllers.LoginController.Login(WebApplication5.Controllers.LoginRequest)">
+            <summary>
+            登陆信息
+            </summary>
+            <param name="loginReq">请求参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication5.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取天气信息
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
